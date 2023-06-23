@@ -1,4 +1,4 @@
-2023/06/17-06:21:50.983 825 Reusing MANIFEST /home/runner/work/freegamer/freegamer/epic/src/database/users/ec0ddb79c19b9520859d78ff5bb2bf6c068adac9586aa30bc8bb0aa016bad5b2/Default/Local Storage/leveldb/MANIFEST-000001
-2023/06/17-06:25:59.560 825 Level-0 table #13: started
-2023/06/17-06:25:59.564 825 Level-0 table #13: 6967 bytes OK
-2023/06/17-06:25:59.566 825 Delete type=0 #11
+2023/06/22-06:22:16.216 825 Reusing MANIFEST /home/runner/work/freegamer/freegamer/epic/src/database/users/ec0ddb79c19b9520859d78ff5bb2bf6c068adac9586aa30bc8bb0aa016bad5b2/Default/Local Storage/leveldb/MANIFEST-000001
+2023/06/22-06:25:04.548 825 Level-0 table #17: started
+2023/06/22-06:25:04.551 825 Level-0 table #17: 6945 bytes OK
+2023/06/22-06:25:04.553 825 Delete type=0 #15
