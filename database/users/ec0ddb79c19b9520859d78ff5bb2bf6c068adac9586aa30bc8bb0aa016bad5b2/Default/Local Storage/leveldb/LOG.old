@@ -1,19 +1,5 @@
-2023/07/20-06:21:55.401 810 Reusing MANIFEST /home/runner/work/freegamer/freegamer/epic/src/database/users/ec0ddb79c19b9520859d78ff5bb2bf6c068adac9586aa30bc8bb0aa016bad5b2/Default/Local Storage/leveldb/MANIFEST-000001
-2023/07/20-06:29:59.337 810 Level-0 table #25: started
-2023/07/20-06:29:59.338 810 Level-0 table #25: 6976 bytes OK
-2023/07/20-06:29:59.339 810 Delete type=0 #23
-2023/07/20-06:29:59.339 810 Compacting 4@0 + 1@1 files
-2023/07/20-06:29:59.341 810 Generated table #26@0: 523 keys, 3997 bytes
-2023/07/20-06:29:59.341 810 Compacted 4@0 + 1@1 files => 3997 bytes
-2023/07/20-06:29:59.342 810 compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/07/20-06:29:59.342 810 Delete type=2 #9
-2023/07/20-06:29:59.342 810 Delete type=2 #17
-2023/07/20-06:29:59.342 810 Delete type=2 #25
-2023/07/20-06:29:59.342 810 Delete type=2 #21
-2023/07/20-06:29:59.342 810 Delete type=2 #13
-2023/07/20-06:35:16.745 812 Level-0 table #28: started
-2023/07/20-06:35:16.746 812 Level-0 table #28: 6975 bytes OK
-2023/07/20-06:35:16.747 812 Delete type=0 #24
-2023/07/20-06:44:30.233 812 Level-0 table #30: started
-2023/07/20-06:44:30.234 812 Level-0 table #30: 6946 bytes OK
-2023/07/20-06:44:30.235 812 Delete type=0 #27
+2023/07/22-06:21:57.415 812 Reusing MANIFEST /home/runner/work/freegamer/freegamer/epic/src/database/users/ec0ddb79c19b9520859d78ff5bb2bf6c068adac9586aa30bc8bb0aa016bad5b2/Default/Local Storage/leveldb/MANIFEST-000001
+2023/07/22-06:21:57.418 812 Delete type=2 #9
+2023/07/22-06:21:57.418 812 Delete type=2 #17
+2023/07/22-06:21:57.418 812 Delete type=2 #21
+2023/07/22-06:21:57.418 812 Delete type=2 #13
