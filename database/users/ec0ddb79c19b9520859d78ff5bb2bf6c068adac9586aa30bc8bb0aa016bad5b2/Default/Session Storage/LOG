@@ -1,8 +1,8 @@
-2023/08/03-06:20:56.790 7f1 Reusing MANIFEST /home/runner/work/freegamer/freegamer/epic/src/database/users/ec0ddb79c19b9520859d78ff5bb2bf6c068adac9586aa30bc8bb0aa016bad5b2/Default/Session Storage/MANIFEST-000001
-2023/08/03-06:20:56.792 7f1 Delete type=2 #9
-2023/08/03-06:20:56.792 7f1 Delete type=2 #15
-2023/08/03-06:20:56.792 7f1 Delete type=2 #19
-2023/08/03-06:20:56.792 7f1 Delete type=2 #13
-2023/08/03-06:44:06.229 7f1 Level-0 table #28: started
-2023/08/03-06:44:06.231 7f1 Level-0 table #28: 7195 bytes OK
-2023/08/03-06:44:06.233 7f1 Delete type=0 #26
+2023/08/05-06:21:17.376 803 Reusing MANIFEST /home/runner/work/freegamer/freegamer/epic/src/database/users/ec0ddb79c19b9520859d78ff5bb2bf6c068adac9586aa30bc8bb0aa016bad5b2/Default/Session Storage/MANIFEST-000001
+2023/08/05-06:21:17.377 803 Delete type=2 #15
+2023/08/05-06:21:17.377 803 Delete type=2 #9
+2023/08/05-06:21:17.377 803 Delete type=2 #13
+2023/08/05-06:21:17.377 803 Delete type=2 #19
+2023/08/05-06:35:53.557 803 Level-0 table #32: started
+2023/08/05-06:35:53.559 803 Level-0 table #32: 9973 bytes OK
+2023/08/05-06:35:53.562 803 Delete type=0 #30
