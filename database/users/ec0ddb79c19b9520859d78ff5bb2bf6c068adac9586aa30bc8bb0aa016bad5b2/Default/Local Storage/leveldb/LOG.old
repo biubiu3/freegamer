@@ -1,12 +1,24 @@
-2023/08/12-06:20:57.363 7f2 Reusing MANIFEST /home/runner/work/freegamer/freegamer/epic/src/database/users/ec0ddb79c19b9520859d78ff5bb2bf6c068adac9586aa30bc8bb0aa016bad5b2/Default/Local Storage/leveldb/MANIFEST-000001
-2023/08/12-06:20:57.367 7f2 Delete type=2 #17
-2023/08/12-06:20:57.367 7f2 Delete type=2 #9
-2023/08/12-06:20:57.367 7f2 Delete type=2 #34
-2023/08/12-06:20:57.367 7f2 Delete type=2 #41
-2023/08/12-06:20:57.367 7f2 Delete type=2 #21
-2023/08/12-06:20:57.367 7f2 Delete type=2 #13
-2023/08/12-06:20:57.367 7f2 Delete type=2 #28
-2023/08/12-06:20:57.367 7f2 Delete type=2 #45
-2023/08/12-06:20:57.367 7f2 Delete type=2 #26
-2023/08/12-06:20:57.367 7f2 Delete type=2 #30
-2023/08/12-06:20:57.367 7f2 Delete type=2 #39
+2023/08/17-06:21:01.639 7ed Reusing MANIFEST /home/runner/work/freegamer/freegamer/epic/src/database/users/ec0ddb79c19b9520859d78ff5bb2bf6c068adac9586aa30bc8bb0aa016bad5b2/Default/Local Storage/leveldb/MANIFEST-000001
+2023/08/17-06:21:01.683 7ed Delete type=2 #17
+2023/08/17-06:21:01.683 7ed Delete type=2 #9
+2023/08/17-06:21:01.683 7ed Delete type=2 #34
+2023/08/17-06:21:01.683 7ed Delete type=2 #41
+2023/08/17-06:21:01.684 7ed Delete type=2 #21
+2023/08/17-06:21:01.684 7ed Delete type=2 #13
+2023/08/17-06:21:01.684 7ed Delete type=2 #28
+2023/08/17-06:21:01.684 7ed Delete type=2 #45
+2023/08/17-06:21:01.684 7ed Delete type=2 #26
+2023/08/17-06:21:01.684 7ed Delete type=2 #30
+2023/08/17-06:21:01.684 7ed Delete type=2 #39
+2023/08/17-06:40:09.094 7ed Level-0 table #64: started
+2023/08/17-06:40:09.096 7ed Level-0 table #64: 7120 bytes OK
+2023/08/17-06:40:09.098 7ed Delete type=0 #62
+2023/08/17-06:40:09.099 7ed Compacting 4@0 + 1@1 files
+2023/08/17-06:40:09.101 7ed Generated table #65@0: 525 keys, 4075 bytes
+2023/08/17-06:40:09.101 7ed Compacted 4@0 + 1@1 files => 4075 bytes
+2023/08/17-06:40:09.101 7ed compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/08/17-06:40:09.102 7ed Delete type=2 #64
+2023/08/17-06:40:09.102 7ed Delete type=2 #56
+2023/08/17-06:40:09.102 7ed Delete type=2 #60
+2023/08/17-06:40:09.102 7ed Delete type=2 #58
+2023/08/17-06:40:09.102 7ed Delete type=2 #52
